@@ -1,0 +1,203 @@
+,EducationSector,Target IndividualProject ,Age,Gender,City,Influenced,Perseverance,DesireToTakeInitiative,Competitiveness,SelfReliance,StrongNeedToAchieve,SelfConfidence,GoodPhysicalHealth,MentalDisorder,KeyTraits
+0,Engineering Sciences,No,19.0,Male,Yes,No,2.0,2.0,3.0,3.0,2.0,2.0,3.0,Yes,Passion
+1,Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,Vision
+2,Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Passion
+3,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,3.0,3.0,No,Rrresilience
+4,Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,4.0,3.0,2.0,Yes,Vision
+5,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Positivity
+6,Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,2.0,3.0,3.0,4.0,1.0,1.0,No,Work Ethic
+7,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,2.0,4.0,4.0,5.0,3.0,4.0,Yes,Work Ethic
+8,Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,1.0,2.0,2.0,2.0,No,Passion
+9,Engineering Sciences,Yes,17.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,4.0,3.0,3.0,Yes,Work Ethic
+10,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,3.0,5.0,4.0,No,Resilience
+11,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,3.0,4.0,4.0,5.0,4.0,5.0,No,Passion
+12,Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,3.0,Yes,Work Ethic
+13,Engineering Sciences,No,21.0,Male,Yes,Yes,4.0,3.0,4.0,4.0,5.0,4.0,4.0,No,Vision
+14,Others,No,20.0,Male,No,Yes,2.0,1.0,2.0,3.0,3.0,2.0,3.0,No,Passion
+15,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,4.0,5.0,No,Positivity
+16,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,3.0,2.0,2.0,Yes,Vision
+17,Engineering Sciences,No,21.0,Male,Yes,No,4.0,3.0,4.0,4.0,4.0,4.0,4.0,No,Positivity
+18,Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,3.0,4.0,No,Passion
+19,Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,4.0,5.0,5.0,2.0,4.0,Yes,Passion
+20,Engineering Sciences,No,19.0,Male,Yes,No,1.0,3.0,2.0,3.0,3.0,2.0,3.0,Yes,Vision
+21,Engineering Sciences,No,21.0,Female,Yes,Yes,4.0,5.0,4.0,4.0,5.0,4.0,4.0,No,Positivity
+22,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,3.0,3.0,2.0,3.0,2.0,3.0,No,Vision
+23,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Vision
+24,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,3.0,3.0,3.0,No,Work Ethic
+25,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,Vision
+26,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Passion
+27,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Work Ethic
+28,"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Female,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Work Ethic
+29,Engineering Sciences,No,18.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,3.0,No,Passion
+30,"Economic Sciences, Business Studies, Commerce and Law",Yes,17.0,Male,Yes,Yes,3.0,5.0,2.0,4.0,5.0,3.0,5.0,Yes,Work Ethic
+31,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,4.0,3.0,3.0,3.0,3.0,No,Work Ethic
+32,Humanities and Social Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Vision
+33,Engineering Sciences,Yes,22.0,Male,No,No,4.0,3.0,5.0,5.0,4.0,2.0,4.0,No,Resilience
+34,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,5.0,5.0,3.0,No,Positivity
+35,"Economic Sciences, Business Studies, Commerce and Law",Yes,21.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,Passion
+36,Engineering Sciences,No,19.0,Male,Yes,No,3.0,4.0,4.0,3.0,3.0,4.0,3.0,No,Work Ethic
+37,"Economic Sciences, Business Studies, Commerce and Law",No,23.0,Male,No,Yes,5.0,4.0,4.0,3.0,5.0,4.0,4.0,No,Passion
+38,Engineering Sciences,No,18.0,Male,Yes,No,3.0,4.0,4.0,5.0,5.0,3.0,5.0,No,Positivity
+39,Engineering Sciences,No,21.0,Male,Yes,No,3.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Positivity
+40,Engineering Sciences,No,18.0,Male,No,Yes,3.0,4.0,2.0,3.0,3.0,4.0,4.0,No,Positivity
+41,"Art, Music or Design",Yes,20.0,Male,Yes,No,4.0,1.0,3.0,4.0,5.0,2.0,2.0,Yes,Positivity
+42,Engineering Sciences,Yes,26.0,Male,No,Yes,2.0,3.0,2.0,3.0,3.0,2.0,5.0,Yes,Vision
+43,Engineering Sciences,No,20.0,Female,Yes,Yes,5.0,4.0,5.0,5.0,5.0,4.0,4.0,No,Positivity
+44,Engineering Sciences,No,20.0,Female,No,No,5.0,4.0,5.0,5.0,4.0,5.0,4.0,Yes,Passion
+45,Engineering Sciences,Yes,21.0,Male,Yes,No,4.0,4.0,5.0,5.0,4.0,4.0,3.0,No,Positivity
+46,Engineering Sciences,Yes,20.0,Female,Yes,No,5.0,3.0,4.0,4.0,5.0,3.0,3.0,No,Work Ethic
+47,Others,Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,4.0,No,Positivity
+48,"Medicine, Health Sciences",Yes,19.0,Female,Yes,Yes,1.0,1.0,1.0,1.0,1.0,1.0,1.0,No,Positivity
+49,Engineering Sciences,Yes,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,Yes,Passion
+50,Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,3.0,3.0,3.0,2.0,No,Vision
+51,Engineering Sciences,Yes,20.0,Female,Yes,Yes,5.0,5.0,5.0,4.0,5.0,4.0,4.0,No,Positivity
+52,"Teaching Degree (e.g., B.Ed)",No,19.0,Male,Yes,Yes,3.0,2.0,2.0,2.0,3.0,1.0,2.0,No,Work Ethic
+53,Engineering Sciences,Yes,21.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,5.0,No,Work Ethic
+54,Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,Yes,Passion
+55,Engineering Sciences,No,20.0,Female,Yes,No,3.0,4.0,4.0,5.0,4.0,3.0,4.0,No,Positivity
+56,Engineering Sciences,No,20.0,Female,Yes,Yes,3.0,4.0,3.0,5.0,4.0,5.0,3.0,No,Positivity
+57,Engineering Sciences,Yes,19.0,Male,Yes,No,3.0,3.0,3.0,4.0,2.0,4.0,4.0,Yes,Work Ethic
+58,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,2.0,4.0,Yes,Passion
+59,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,3.0,4.0,3.0,4.0,Yes,Work Ethic
+60,Engineering Sciences,Yes,19.0,Female,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,3.0,Yes,Positivity
+61,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,5.0,4.0,5.0,5.0,5.0,3.0,No,Positivity
+62,Engineering Sciences,No,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Positivity
+63,Engineering Sciences,Yes,19.0,Male,Yes,Yes,2.0,3.0,1.0,2.0,2.0,1.0,3.0,No,Passion
+64,Engineering Sciences,Yes,22.0,Male,No,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Positivity
+65,Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,4.0,4.0,5.0,No,Passion
+66,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,4.0,4.0,3.0,4.0,3.0,5.0,No,Work Ethic
+67,Mathematics or Natural Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,4.0,3.0,5.0,No,Positivity
+68,"Art, Music or Design",Yes,24.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,4.0,5.0,Yes,Work Ethic
+69,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,1.0,2.0,No,Resilience
+70,Engineering Sciences,No,19.0,Male,Yes,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,No,Resilience
+71,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,4.0,4.0,4.0,4.0,No,Positivity
+72,"Medicine, Health Sciences",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,3.0,3.0,No,Vision
+73,Engineering Sciences,Yes,21.0,Female,Yes,No,2.0,2.0,2.0,3.0,2.0,2.0,2.0,Yes,Resilience
+74,Engineering Sciences,No,19.0,Male,Yes,Yes,5.0,5.0,3.0,5.0,5.0,3.0,3.0,Yes,Positivity
+75,Others,Yes,21.0,Female,Yes,No,4.0,4.0,5.0,4.0,3.0,3.0,3.0,No,Passion
+77,Engineering Sciences,No,19.0,Male,No,Yes,4.0,5.0,4.0,5.0,5.0,4.0,4.0,Yes,Vision
+78,Engineering Sciences,Yes,19.0,Male,Yes,Yes,5.0,5.0,5.0,4.0,4.0,5.0,5.0,Yes,Resilience
+79,Engineering Sciences,Yes,21.0,Male,Yes,No,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Positivity
+80,Engineering Sciences,No,19.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,4.0,2.0,3.0,No,Positivity
+81,Others,Yes,19.0,Female,Yes,Yes,4.0,4.0,4.0,4.0,4.0,5.0,4.0,No,Vision
+83,Engineering Sciences,No,19.0,Male,Yes,No,4.0,5.0,4.0,4.0,5.0,5.0,4.0,No,Positivity
+84,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Male,Yes,Yes,4.0,4.0,3.0,4.0,5.0,5.0,4.0,No,Vision
+85,Engineering Sciences,No,20.0,Male,Yes,Yes,1.0,1.0,1.0,5.0,5.0,5.0,5.0,No,Positivity
+86,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,No,Yes,4.0,5.0,5.0,5.0,5.0,4.0,5.0,No,Passion
+87,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Positivity
+88,Others,No,20.0,Male,Yes,Yes,3.0,2.0,3.0,2.0,2.0,3.0,3.0,No,Vision
+89,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,5.0,4.0,5.0,5.0,3.0,4.0,No,Passion
+90,Humanities and Social Sciences,Yes,21.0,Male,Yes,Yes,4.0,3.0,3.0,5.0,4.0,3.0,4.0,No,Positivity
+91,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,No,No,3.0,4.0,3.0,4.0,5.0,2.0,3.0,No,Vision
+92,Engineering Sciences,Yes,22.0,Male,Yes,Yes,2.0,5.0,5.0,3.0,4.0,4.0,5.0,Yes,Positivity
+93,"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,4.0,5.0,4.0,No,Positivity
+94,Others,No,19.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,3.0,No,Positivity
+95,Engineering Sciences,No,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,3.0,4.0,Yes,Passion
+96,"Economic Sciences, Business Studies, Commerce and Law",Yes,18.0,Female,Yes,No,4.0,5.0,5.0,4.0,5.0,4.0,4.0,No,Passion
+97,Engineering Sciences,No,21.0,Male,No,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Passion
+98,Others,No,22.0,Male,Yes,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,Passion
+99,Engineering Sciences,No,19.0,Male,No,Yes,5.0,4.0,5.0,5.0,5.0,4.0,3.0,No,Vision
+100,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Female,Yes,Yes,4.0,3.0,3.0,4.0,5.0,4.0,3.0,No,Passion
+101,Language and Cultural Studies,No,19.0,Male,No,Yes,3.0,5.0,3.0,3.0,5.0,5.0,2.0,No,Vision
+102,Others,No,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,5.0,5.0,5.0,No,Passion
+103,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,5.0,3.0,5.0,4.0,2.0,Yes,Vision
+104,"Medicine, Health Sciences",Yes,20.0,Female,Yes,No,5.0,4.0,5.0,5.0,5.0,5.0,3.0,Yes,Work Ethic
+105,Humanities and Social Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,5.0,5.0,5.0,5.0,5.0,No,Passion
+106,Engineering Sciences,Yes,20.0,Male,Yes,No,5.0,4.0,4.0,4.0,4.0,5.0,3.0,No,Work Ethic
+107,Engineering Sciences,Yes,22.0,Male,No,Yes,3.0,4.0,4.0,4.0,5.0,5.0,5.0,No,Passion
+108,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,Yes,4.0,3.0,5.0,4.0,5.0,4.0,3.0,Yes,Work Ethic
+109,"Art, Music or Design",Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,5.0,4.0,Yes,Passion
+110,"Medicine, Health Sciences",No,20.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,4.0,5.0,No,Vision
+111,Humanities and Social Sciences,No,19.0,Female,Yes,Yes,3.0,5.0,2.0,4.0,4.0,4.0,2.0,No,Positivity
+112,Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,3.0,No,Positivity
+113,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,3.0,5.0,4.0,5.0,4.0,4.0,No,Positivity
+114,Engineering Sciences,No,19.0,Male,Yes,Yes,4.0,4.0,4.0,5.0,5.0,4.0,5.0,No,Positivity
+115,Engineering Sciences,Yes,20.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,4.0,4.0,4.0,No,Work Ethic
+116,Engineering Sciences,Yes,18.0,Male,Yes,No,2.0,3.0,3.0,2.0,2.0,2.0,3.0,No,Positivity
+117,"Economic Sciences, Business Studies, Commerce and Law",No,17.0,Male,Yes,No,5.0,4.0,4.0,5.0,5.0,5.0,5.0,No,Positivity
+118,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,No,Yes,3.0,4.0,5.0,5.0,5.0,4.0,5.0,No,Work Ethic
+119,Engineering Sciences,No,20.0,Male,Yes,No,2.0,3.0,3.0,2.0,3.0,2.0,2.0,Yes,Positivity
+120,"Art, Music or Design",No,20.0,Female,Yes,Yes,4.0,4.0,3.0,4.0,5.0,4.0,3.0,No,Positivity
+121,"Medicine, Health Sciences",Yes,20.0,Male,Yes,Yes,3.0,5.0,5.0,5.0,3.0,4.0,5.0,No,Vision
+122,Engineering Sciences,Yes,20.0,Female,Yes,No,3.0,4.0,4.0,4.0,4.0,3.0,3.0,No,Passion
+123,Engineering Sciences,Yes,21.0,Male,Yes,Yes,5.0,3.0,4.0,4.0,4.0,4.0,3.0,No,Positivity
+124,Mathematics or Natural Sciences,Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,1.0,2.0,3.0,2.0,Yes,Vision
+125,Engineering Sciences,No,20.0,Female,Yes,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Work Ethic
+126,Engineering Sciences,Yes,21.0,Male,Yes,Yes,3.0,5.0,5.0,4.0,5.0,5.0,4.0,No,Positivity
+128,Engineering Sciences,Yes,20.0,Female,Yes,Yes,4.0,5.0,4.0,4.0,4.0,5.0,4.0,No,Positivity
+129,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Positivity
+130,Engineering Sciences,Yes,20.0,Female,Yes,Yes,3.0,5.0,4.0,4.0,5.0,4.0,4.0,No,Positivity
+131,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,3.0,3.0,3.0,4.0,4.0,4.0,No,Passion
+132,Engineering Sciences,Yes,20.0,Female,Yes,Yes,3.0,4.0,4.0,4.0,5.0,5.0,3.0,No,Passion
+133,Others,No,20.0,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,3.0,No,Passion
+134,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,4.0,4.0,4.0,4.0,Yes,Work Ethic
+135,"Art, Music or Design",Yes,20.0,Male,Yes,Yes,3.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Passion
+136,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,No,1.0,2.0,1.0,2.0,3.0,2.0,2.0,No,Positivity
+137,Engineering Sciences,Yes,20.0,Male,Yes,No,5.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,Vision
+138,Others,Yes,20.0,Male,Yes,Yes,3.0,4.0,4.0,4.0,3.0,3.0,4.0,Yes,Passion
+139,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,No,Yes,2.0,2.0,3.0,2.0,3.0,3.0,2.0,Yes,Resilience
+140,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,4.0,5.0,4.0,No,Work Ethic
+141,Engineering Sciences,Yes,20.0,Male,Yes,Yes,3.0,4.0,3.0,5.0,5.0,5.0,5.0,No,Passion
+142,Engineering Sciences,Yes,20.0,Male,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Positivity
+143,Engineering Sciences,Yes,20.0,Male,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,Vision
+144,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Male,Yes,Yes,3.0,4.0,3.0,5.0,4.0,3.0,2.0,Yes,Positivity
+145,"Economic Sciences, Business Studies, Commerce and Law",No,21.0,Male,No,Yes,3.0,4.0,3.0,4.0,5.0,3.0,4.0,Yes,Passion
+146,Engineering Sciences,Yes,20.0,Male,No,No,3.0,4.0,5.0,5.0,3.0,4.0,4.0,No,Passion
+147,"Medicine, Health Sciences",No,19.0,Male,Yes,No,3.0,1.0,3.0,4.0,3.0,3.0,5.0,No,Passion
+148,Engineering Sciences,Yes,20.0,Male,No,Yes,4.0,4.0,4.0,4.0,5.0,5.0,5.0,No,Positivity
+149,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,4.0,5.0,5.0,Yes,Positivity
+150,Engineering Sciences,No,22.0,Male,Yes,No,2.0,3.0,2.0,3.0,3.0,3.0,3.0,No,Positivity
+151,"Economic Sciences, Business Studies, Commerce and Law",No,19.0,Male,Yes,Yes,2.0,3.0,2.0,3.0,2.0,2.0,1.0,No,Passion
+152,"Art, Music or Design",No,19.0,Female,Yes,Yes,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,Positivity
+153,"Medicine, Health Sciences",No,17.0,Female,Yes,No,3.0,2.0,1.0,3.0,3.0,2.0,3.0,No,Positivity
+154,Mathematics or Natural Sciences,No,18.0,Female,Yes,Yes,2.0,1.0,3.0,1.0,2.0,3.0,4.0,No,Work Ethic
+155,Others,Yes,20.0,Female,Yes,No,2.0,2.0,2.0,2.0,2.0,1.0,3.0,No,Positivity
+156,Others,Yes,19.0,Male,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,4.0,No,Positivity
+157,"Art, Music or Design",No,22.0,Female,Yes,Yes,4.0,3.0,4.0,5.0,5.0,4.0,3.0,No,Positivity
+158,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,2.0,1.0,2.0,2.0,2.0,1.0,1.0,No,Vision
+159,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Female,Yes,Yes,2.0,1.0,1.0,2.0,2.0,2.0,1.0,No,Resilience
+160,"Art, Music or Design",No,21.0,Male,No,No,1.0,1.0,1.0,1.0,5.0,5.0,5.0,No,Passion
+161,"Economic Sciences, Business Studies, Commerce and Law",Yes,25.0,Female,Yes,Yes,4.0,4.0,3.0,3.0,3.0,4.0,4.0,No,Passion
+162,"Medicine, Health Sciences",Yes,22.0,Male,No,Yes,2.0,1.0,2.0,3.0,2.0,3.0,3.0,Yes,Vision
+163,"Art, Music or Design",Yes,21.0,Male,No,Yes,2.0,2.0,3.0,3.0,3.0,3.0,3.0,No,Passion
+164,"Art, Music or Design",Yes,21.0,Male,Yes,No,4.0,4.0,4.0,3.0,4.0,5.0,5.0,No,Passion
+165,"Teaching Degree (e.g., B.Ed)",Yes,18.0,Male,Yes,Yes,5.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Vision
+166,"Medicine, Health Sciences",No,19.0,Female,Yes,No,4.0,5.0,5.0,5.0,5.0,5.0,5.0,Yes,Vision
+167,Others,Yes,22.0,Female,Yes,No,3.0,3.0,3.0,3.0,3.0,3.0,2.0,No,Positivity
+168,"Art, Music or Design",No,21.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,4.0,2.0,Yes,Positivity
+169,"Teaching Degree (e.g., B.Ed)",Yes,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Yes,Work Ethic
+170,Engineering Sciences,Yes,18.0,Female,Yes,Yes,4.0,3.0,4.0,4.0,3.0,3.0,4.0,No,Passion
+171,Engineering Sciences,No,18.0,Male,No,Yes,3.0,3.0,4.0,4.0,4.0,3.0,4.0,No,Passion
+172,"Art, Music or Design",Yes,21.0,Male,Yes,Yes,3.0,4.0,4.0,4.0,5.0,4.0,5.0,Yes,Passion
+173,"Art, Music or Design",Yes,19.0,Female,Yes,No,2.0,2.0,2.0,2.0,1.0,2.0,2.0,No,Passion
+174,Others,Yes,20.0,Male,Yes,Yes,2.0,3.0,3.0,3.0,3.0,3.0,3.0,No,Work Ethic
+175,Engineering Sciences,Yes,20.0,Male,No,Yes,2.0,1.0,1.0,2.0,3.0,1.0,3.0,No,Passion
+176,Engineering Sciences,Yes,20.0,Female,Yes,Yes,4.0,5.0,5.0,4.0,5.0,5.0,5.0,No,Work Ethic
+177,"Art, Music or Design",Yes,19.0,Female,Yes,Yes,4.0,5.0,5.0,5.0,5.0,5.0,5.0,No,Passion
+178,Humanities and Social Sciences,No,19.0,Female,No,No,2.0,2.0,1.0,2.0,2.0,2.0,3.0,No,Positivity
+179,Engineering Sciences,No,18.0,Male,Yes,Yes,3.0,3.0,2.0,2.0,3.0,3.0,2.0,No,Work Ethic
+180,Others,Yes,20.0,Female,Yes,No,4.0,5.0,4.0,4.0,3.0,5.0,5.0,Yes,Passion
+181,Engineering Sciences,Yes,22.0,Male,No,Yes,4.0,3.0,4.0,4.0,5.0,3.0,4.0,No,Passion
+182,Others,Yes,19.0,Male,Yes,Yes,4.0,3.0,3.0,4.0,4.0,3.0,3.0,No,Work Ethic
+183,Engineering Sciences,Yes,19.0,Male,Yes,Yes,3.0,4.0,5.0,5.0,4.0,4.0,2.0,No,Work Ethic
+184,"Economic Sciences, Business Studies, Commerce and Law",No,20.0,Male,Yes,Yes,4.0,5.0,5.0,4.0,5.0,4.0,5.0,Yes,Passion
+185,"Art, Music or Design",Yes,19.0,Male,Yes,Yes,3.0,4.0,3.0,4.0,5.0,4.0,4.0,No,Vision
+186,Engineering Sciences,No,17.0,Male,Yes,Yes,5.0,5.0,4.0,4.0,5.0,5.0,4.0,No,Positivity
+187,Others,No,21.0,Female,No,Yes,3.0,1.0,2.0,3.0,2.0,2.0,1.0,Yes,Passion
+188,"Economic Sciences, Business Studies, Commerce and Law",Yes,20.0,Female,Yes,No,4.0,4.0,4.0,4.0,4.0,4.0,2.0,Yes,Work Ethic
+189,"Economic Sciences, Business Studies, Commerce and Law",No,18.0,Female,Yes,No,4.0,5.0,3.0,2.0,3.0,1.0,1.0,Yes,Passion
+190,Engineering Sciences,No,17.0,Male,No,Yes,3.0,4.0,4.0,2.0,3.0,2.0,3.0,No,Passion
+191,Others,Yes,21.0,Female,Yes,No,4.0,5.0,4.0,5.0,4.0,4.0,4.0,Yes,Positivity
+192,Others,Yes,19.0,Female,No,Yes,4.0,4.0,4.0,5.0,4.0,4.0,4.0,No,Passion
+193,"Art, Music or Design",Yes,20.0,Male,Yes,Yes,2.0,3.0,2.0,4.0,2.0,3.0,2.0,No,Positivity
+194,Engineering Sciences,No,20.0,Male,Yes,Yes,4.0,4.0,4.0,4.0,4.0,4.0,4.0,No,Work Ethic
+196,Engineering Sciences,Yes,19.0,Female,Yes,No,3.0,4.0,5.0,4.0,4.0,3.0,3.0,Yes,Work Ethic
+205,Engineering Sciences,Yes,20.0,Male,Yes,Yes,4.0,4.0,5.0,4.0,4.0,4.0,5.0,Yes,Positivity
+206,Engineering Sciences,Yes,21.0,Male,Yes,Yes,4.0,5.0,4.0,4.0,4.0,4.0,3.0,Yes,Positivity
+209,"Economic Sciences, Business Studies, Commerce and Law",Yes,19.0,Male,Yes,No,4.0,2.0,3.0,4.0,2.0,2.0,3.0,No,Positivity
+213,Engineering Sciences,No,19.0,Male,Yes,No,4.0,2.0,3.0,4.0,4.0,2.0,4.0,Yes,Work Ethic
+214,Engineering Sciences,Yes,19.0,Male,Yes,Yes,4.0,5.0,4.0,3.0,4.0,4.0,5.0,Yes,Positivity
+215,Engineering Sciences,Yes,19.0,Male,Yes,No,2.0,2.0,2.0,2.0,2.0,2.0,2.0,No,Work Ethic
+216,Engineering Sciences,Yes,22.0,Female,Yes,Yes,3.0,4.0,4.0,3.0,4.0,4.0,3.0,No,Vision
+217,Engineering Sciences,No,19.0,Male,Yes,No,1.0,2.0,2.0,3.0,3.0,2.0,2.0,No,Passion
+218,Engineering Sciences,Yes,18.0,Male,Yes,Yes,3.0,5.0,3.0,5.0,5.0,5.0,2.0,No,Passion
